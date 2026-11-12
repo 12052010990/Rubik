@@ -1,0 +1,2 @@
+# Rubik
+belajar rubik
